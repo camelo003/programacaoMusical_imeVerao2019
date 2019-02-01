@@ -1,4 +1,4 @@
-# Programacao Musical com Pure Data - IME - Verao2019
+# Programacao Musical com Pure Data - IME - Verão 2019
 
 >Sugeri essa organização, mas sintam-se à vontade para:
 >
